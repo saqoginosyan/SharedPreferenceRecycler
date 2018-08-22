@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SHaredPrefRecyclerView</string>
+    <string name="input_key">input Key</string>
+    <string name="input_value">input Value</string>
+    <string name="add">Add</string>
+    <string name="key">Key -------</string>
+    <string name="value">Value -----</string>
+</resources>

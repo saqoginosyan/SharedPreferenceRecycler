@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">10dp</dimen>
+    <dimen name="df_padding">20dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="lay_haight">60dp</dimen>
+    <dimen name="txt_margin">20dp</dimen>
+    <dimen name="txt_size">16sp</dimen>
+</resources>
